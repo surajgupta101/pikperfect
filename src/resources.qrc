@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>5073620.png</file>
+    <file>logout-24.png</file>
+    <file>delete-button.svg</file>
+    <file>img_524293.png</file>
+    <file>logout.svg</file>
+  </qresource>
+</RCC>
